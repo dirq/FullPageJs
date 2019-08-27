@@ -44,6 +44,7 @@
   "homepage": "https://github.com/alvarotrigo/fullPage.js",
   "namespace": "fullpage_api",
   "devDependencies": {
+    "browser-sync": "^2.26.7",
     "gulp": "^4.0.0",
     "gulp-clean-css": "^4.0.0",
     "gulp-rename": "^1.2.2",
